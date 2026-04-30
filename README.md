@@ -25,7 +25,9 @@ Identify a method to predict future churners
 - New Joiners
 ---
 **-📊 Tableau Dashboard:**[here](https://public.tableau.com/app/profile/mostafa.alali/viz/CHURNANALYSISI/Summary)
+
 -SQL Script [here](script)
+
 ---
 
 <img width="1246" height="622" alt="Summary" src="https://github.com/user-attachments/assets/80b1f531-a131-42a8-9437-f1c2e5535ad9" />
