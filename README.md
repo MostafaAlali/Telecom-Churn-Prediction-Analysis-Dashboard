@@ -31,6 +31,7 @@ Identify a method to predict future churners
 ---
 
 <img width="1246" height="622" alt="Summary" src="https://github.com/user-attachments/assets/80b1f531-a131-42a8-9437-f1c2e5535ad9" />
+
 ---
 
 <img width="1163" height="581" alt="Churn prediction" src="https://github.com/user-attachments/assets/01b57122-bb19-4f76-9d8e-9d2a9024245d" />
